@@ -1078,6 +1078,7 @@ a {
   margin-bottom: 15px;
   border: 1px solid #ccc;
   background-color: rgba(218, 218, 218, 0.19);
+  resize: none;
 }
 
 .contact form input:not([type="submit"]):focus,
